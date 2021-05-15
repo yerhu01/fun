@@ -13,25 +13,35 @@ This list contains problems that demonstrate core concepts and problem solving t
 ## Bits
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
-| [Number of 1 Bits]                                           | [Python](lc/py/041.py), [C](lc/c/041.c)  | Bit Manipulation |
+| [Number of 1 Bits]                                           | [Python](lc/py/041.py), [C](lc/c/041.c)  | Shifting, Drop On Bits |
+| [Reverse Bits]                                               | [Python](lc/py/040.py), [C](lc/c/040.c)  | Shifting, Masks |
 
 [Number of 1 Bits]: https://leetcode.com/problems/number-of-1-bits/
+[Reverse Bits]: https://leetcode.com/problems/reverse-bits/
 
 ## Arrays
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
+| [Sort Array By Parity]				       | [Python](lc/py/071.py), [C](lc/c/071.c)  | 2 Pointers |
 | [Container With Most Water]				       | [Python](lc/py/004.py), [C](lc/c/004.c)  | 2 Pointers |
+| [Sort Colors]   					       | [Python](lc/py/072.py), [C](lc/c/072.c)  | 3 Pointers |
 | [Rotate Image]					       | [Python](lc/py/012.py), [C](lc/c/012.c)  | 2D Arrays |
 
+[Sort Array By Parity]: https://leetcode.com/problems/sort-array-by-parity/
 [Container With Most Water]: https://leetcode.com/problems/container-with-most-water/
+[Sort Colors]: https://leetcode.com/problems/sort-colors/
 [Rotate Image]: https://leetcode.com/problems/rotate-image/
 
 ## Strings
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
-| [Valid Palindrome]					       | [Python](lc/py/032.py), [C](lc/c/032.c)  | 2 Pointers, String Functions |
+| [Valid Palindrome]					       | [Python](lc/py/032.py), [C](lc/c/032.c)  | 2 Pointers/String Functions |
+| [Longest Palindromic Substring]			       | [Python](lc/py/003.py), [C](lc/c/003.c)  | 2 Pointers |
+| [Longest Substring Without Repeating Characters]	       | [Python](lc/py/002.py), [C](lc/c/002.c)  | Hash Table/Sliding Window |
 
 [Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
+[Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ## Linked Lists
 | Problem                                                      | Solution                                 | Tags |
