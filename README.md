@@ -38,10 +38,12 @@ This list contains problems that demonstrate core concepts and problem solving t
 | [Valid Palindrome]					       | [Python](lc/py/032.py), [C](lc/c/032.c)  | 2 Pointers/String Functions |
 | [Longest Palindromic Substring]			       | [Python](lc/py/003.py), [C](lc/c/003.c)  | 2 Pointers |
 | [Longest Substring Without Repeating Characters]	       | [Python](lc/py/002.py), [C](lc/c/002.c)  | Hash Table/Sliding Window |
+| [Minimum Window Substring]				       | [Python](lc/py/022.py), [C](lc/c/022.c)  | Hash Table/Sliding Window |
 
 [Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
 [Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[Minimum Window Substring]: https://leetcode.com/problems/minimum-window-substring/
 
 ## Linked Lists
 | Problem                                                      | Solution                                 | Tags |
@@ -67,6 +69,7 @@ This list contains problems that demonstrate core concepts and problem solving t
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
 | [Binary Search]					       | [Python](ly/py/070.py), [C](lc/c/070.c)  | |
+| [Find Minimum in Rotated Sorted Array]		       | [Python](ly/py/039.py), [C](lc/c/039.c)  | |
 | [Search in Rotated Sorted Array]			       | [Python](ly/py/010.py), [C](lc/c/010.c)  | |
 
 [Binary Search]: https://leetcode.com/problems/binary-search/
@@ -77,9 +80,11 @@ This list contains problems that demonstrate core concepts and problem solving t
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
 | [Contains Duplicate]                                         | [Python](lc/py/050.py), [C](lc/c/050.c)  | Hash Table, Sorting |
 | [Two Sum]						       | [Python](lc/py/001.py), [C](lc/c/001.c)  | Hash Table |
+| [3Sum]						       | [Python](lc/py/005.py), [C](lc/c/005.c)  | Sorting/2 Pointers |
 
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 [Two Sum]: https://leetcode.com/problems/two-sum/
+[3Sum]: https://leetcode.com/problems/3sum/
 
 ## Heaps / Sorting
 | Problem                                                      | Solution                                 | Tags |
@@ -92,15 +97,21 @@ This list contains problems that demonstrate core concepts and problem solving t
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
 | [Same Tree]	                                               | [Python](lc/py/026.py), [C](lc/c/026.c)  | Preorder DFS, BFS |
+| [Invert Binary Tree]                                         | [Python](lc/py/051.py), [C](lc/c/051.c)  | Postorder DFS |
+| [Subtree of Another Tree]                                    | [Python](lc/py/067.py), [C](lc/c/067.c)  | Postorder DFS |
 
 [Same Tree]: https://leetcode.com/problems/same-tree/
+[Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
+[Subtree of Another Tree]: https://leetcode.com/problems/subtree-of-another-tree/
 
 ## Binary Search Trees
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
 | [Lowest Common Ancestor of a Binary Search Tree]             | [Python](lc/py/053.py), [C](lc/c/053.c)  | BST Property |
+| [Kth Smallest Element in a BST]		               | [Python](lc/py/052.py), [C](lc/c/052.c)  | Inorder DFS |
 
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[Kth Smallest Element in a BST]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 ## Dynamic Programming
 | Problem                                                      | Solution                                 | Tags |
