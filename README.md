@@ -73,6 +73,7 @@ This list contains problems that demonstrate core concepts and problem solving t
 | [Search in Rotated Sorted Array]			       | [Python](ly/py/010.py), [C](lc/c/010.c)  | |
 
 [Binary Search]: https://leetcode.com/problems/binary-search/
+[Find Minimum in Rotated Sorted Array]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 ## Hash Tables / Sorting
@@ -81,10 +82,14 @@ This list contains problems that demonstrate core concepts and problem solving t
 | [Contains Duplicate]                                         | [Python](lc/py/050.py), [C](lc/c/050.c)  | Hash Table, Sorting |
 | [Two Sum]						       | [Python](lc/py/001.py), [C](lc/c/001.c)  | Hash Table |
 | [3Sum]						       | [Python](lc/py/005.py), [C](lc/c/005.c)  | Sorting/2 Pointers |
+| [Valid Anagram]					       | [Python](lc/py/055.py), [C](lc/c/055.c)  | Hash Table, Sorting |
+| [Longest Consecutive Sequence]			       | [Python](lc/py/033.py), [C](lc/c/033.c)  | Hash Table, Sorting |
 
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [3Sum]: https://leetcode.com/problems/3sum/
+[Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+[Longest Consecutive Sequence]: https://leetcode.com/problems/longest-consecutive-sequence/
 
 ## Heaps / Sorting
 | Problem                                                      | Solution                                 | Tags |
@@ -120,11 +125,19 @@ This list contains problems that demonstrate core concepts and problem solving t
 | [Maximum Subarray]		                               | [Python](lc/py/014.py), [C](lc/c/014.c)  | Single DP |
 | [Maximum Product Subarray]	                               | [Python](lc/py/038.py), [C](lc/c/038.c)  | Single DP |
 | [Jump Game]						       | [Python](lc/py/016.py), [C](lc/c/016.c)  | Single DP |
+| [Climbing Stairs]					       | [Python](lc/py/020.py), [C](lc/c/020.c)  | Single DP, 1D DP |
+| [House Robber]					       | [Python](lc/py/042.py), [C](lc/c/042.c)  | Single DP, 1D DP |
+| [House Robber II]					       | [Python](lc/py/049.py), [C](lc/c/049.c)  | Single DP |
+| [Unique Paths]					       | [Python](lc/py/019.py), [C](lc/c/019.c)  | 1D DP, 2D DP |
 
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [Maximum Subarray]: https://leetcode.com/problems/maximum-subarray/
 [Maximum Product Subarray]: https://leetcode.com/problems/maximum-product-subarray/
 [Jump Game]: https://leetcode.com/problems/jump-game/
+[Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
+[House Robber]: https://leetcode.com/problems/house-robber/
+[House Robber II]: https://leetcode.com/problems/house-robber-ii/
+[Unique Paths]: https://leetcode.com/problems/unique-paths/
 
 ## Graphs
 | Problem                                                      | Solution                                 | Tags |
