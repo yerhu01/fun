@@ -68,7 +68,7 @@ This list contains problems that demonstrate core concepts and problem solving t
 ## Binary Search
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
-| [Binary Search]					       | [Python](ly/py/070.py), [C](lc/c/070.c)  | |
+| [Binary Search]					       | [Python](lc/py/070.py), [C](lc/c/070.c)  | |
 | [Find Minimum in Rotated Sorted Array]		       | [Python](lc/py/039.py), [C](lc/c/039.c)  | |
 | [Search in Rotated Sorted Array]			       | [Python](lc/py/010.py), [C](lc/c/010.c)  | |
 
