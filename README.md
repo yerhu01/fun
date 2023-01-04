@@ -10,6 +10,13 @@ This project aims at solving LeetCode style algorithm problems with Python and C
 # LeetCode Curated
 This list contains problems that demonstrate core concepts and problem solving techniques to help save time and get started.
 
+## Uncategorized
+| [Combination Sum]                                            | [Python](lc/py/009.py), [C](lc/c/009.c)  | Tree, DFS | => hints
+| [Insert Interval]                                            | [Python](lc/py/018.py), [C](lc/c/018.c)  | Arrays | => solved
+
+[Combination Sum]: https://leetcode.com/problems/combination-sum/
+[Insert Interval]: https://leetcode.com/problems/insert-interval/
+
 ## Bits
 | Problem                                                      | Solution                                 | Tags |
 | ------------------------------------------------------------ | ---------------------------------------- | ---- |
@@ -82,12 +89,14 @@ This list contains problems that demonstrate core concepts and problem solving t
 | [Contains Duplicate]                                         | [Python](lc/py/050.py), [C](lc/c/050.c)  | Hash Table, Sorting |
 | [Two Sum]						       | [Python](lc/py/001.py), [C](lc/c/001.c)  | Hash Table |
 | [3Sum]						       | [Python](lc/py/005.py), [C](lc/c/005.c)  | Sorting/2 Pointers |
+| [Group Anagrams]					       | [Python](lc/py/013.py), [C](lc/c/013.c)  | Hash Table, Sorting | => Solved
 | [Valid Anagram]					       | [Python](lc/py/055.py), [C](lc/c/055.c)  | Hash Table, Sorting |
 | [Longest Consecutive Sequence]			       | [Python](lc/py/033.py), [C](lc/c/033.c)  | Hash Table, Sorting |
 
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [3Sum]: https://leetcode.com/problems/3sum/
+[Group Anagrams]: https://leetcode.com/problems/group-anagrams/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 [Longest Consecutive Sequence]: https://leetcode.com/problems/longest-consecutive-sequence/
 
